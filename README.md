@@ -1,2 +1,2 @@
 # deathanddestructiontmod
-This is the homepage for deathanddestructuion
+Welcome to the official homepage for the deathanddestruction mod for terraria!
